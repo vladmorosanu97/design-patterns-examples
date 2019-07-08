@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.DuckSimulator", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.GameFight", "Strategy.GameFight\Strategy.GameFight.csproj", "{3BF0064B-61FA-421F-A155-FE6BF3DCA05D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.WeatherApp", "Observer.WeatherApp\Observer.WeatherApp.csproj", "{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BF0064B-61FA-421F-A155-FE6BF3DCA05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF0064B-61FA-421F-A155-FE6BF3DCA05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF0064B-61FA-421F-A155-FE6BF3DCA05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
