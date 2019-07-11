@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.DuckSimulator", "Strategy.DuckSimulator\Strategy.DuckSimulator.csproj", "{B6AAB6B2-F137-4FAA-B26C-1C0D6EF6A9F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy.DuckSimulator", "Strategy.DuckSimulator\Strategy.DuckSimulator.csproj", "{B6AAB6B2-F137-4FAA-B26C-1C0D6EF6A9F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.GameFight", "Strategy.GameFight\Strategy.GameFight.csproj", "{3BF0064B-61FA-421F-A155-FE6BF3DCA05D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy.GameFight", "Strategy.GameFight\Strategy.GameFight.csproj", "{3BF0064B-61FA-421F-A155-FE6BF3DCA05D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.WeatherApp", "Observer.WeatherApp\Observer.WeatherApp.csproj", "{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.WeatherApp", "Observer.WeatherApp\Observer.WeatherApp.csproj", "{438AAD9A-7949-4CA6-8AF2-A70D0A73CEBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.StarbuzzCoffee", "Decorator.StarbuzzCoffee\Decorator.StarbuzzCoffee.csproj", "{616ACEE6-507D-4F13-81D4-8B83E4E8A84B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator.StarbuzzCoffee", "Decorator.StarbuzzCoffee\Decorator.StarbuzzCoffee.csproj", "{616ACEE6-507D-4F13-81D4-8B83E4E8A84B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.RemoteControl", "Command.RemoteControl\Command.RemoteControl.csproj", "{C6AA02C8-ACB3-4D90-B86C-A911669B27B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{616ACEE6-507D-4F13-81D4-8B83E4E8A84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{616ACEE6-507D-4F13-81D4-8B83E4E8A84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{616ACEE6-507D-4F13-81D4-8B83E4E8A84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AA02C8-ACB3-4D90-B86C-A911669B27B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AA02C8-ACB3-4D90-B86C-A911669B27B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AA02C8-ACB3-4D90-B86C-A911669B27B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AA02C8-ACB3-4D90-B86C-A911669B27B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
