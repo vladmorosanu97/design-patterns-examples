@@ -1,5 +1,4 @@
-﻿using System;
-using Strategy.GameFight.Characters;
+﻿using Strategy.GameFight.Characters;
 using Strategy.GameFight.WeaponBehavior;
 
 namespace Strategy.GameFight

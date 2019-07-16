@@ -1,5 +1,4 @@
-﻿using System;
-using TemplateMethod.BeveragesWithHooks.Models;
+﻿using TemplateMethod.BeveragesWithHooks.Models;
 
 namespace TemplateMethod.BeveragesWithHooks
 {

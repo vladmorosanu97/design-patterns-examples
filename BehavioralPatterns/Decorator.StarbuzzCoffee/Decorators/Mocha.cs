@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Decorator.StarbuzzCoffee.Beverages;
-using Decorator.StarbuzzCoffee.Models;
+﻿using Decorator.StarbuzzCoffee.Beverages;
 
 namespace Decorator.StarbuzzCoffee.Decorators
 {

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Observer.WeatherApp.Observers;
+﻿using Observer.WeatherApp.Observers;
 
 namespace Observer.WeatherApp.Observables
 {

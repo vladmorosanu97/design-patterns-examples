@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Observer.WeatherApp.Models
+﻿namespace Observer.WeatherApp.Models
 {
     public class WeatherModel
     {

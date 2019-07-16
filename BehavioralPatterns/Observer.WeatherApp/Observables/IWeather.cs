@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Observer.WeatherApp.Observables
+﻿namespace Observer.WeatherApp.Observables
 {
     public interface IWeather
     {

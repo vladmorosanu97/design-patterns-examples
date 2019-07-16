@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Strategy.DuckSimulator.FlyBehavior;
 using Strategy.DuckSimulator.QuackBehavior;
 

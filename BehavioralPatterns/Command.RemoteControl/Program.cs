@@ -1,5 +1,4 @@
-﻿using System;
-using Command.RemoteControl.Commands;
+﻿using Command.RemoteControl.Commands;
 using Command.RemoteControl.Models;
 using Command.RemoteControl.RemoteControls;
 

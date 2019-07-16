@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.Beverages", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.BeveragesWithHooks", "TemplateMethod.BeveragesWithHooks\TemplateMethod.BeveragesWithHooks.csproj", "{731223F5-3FA2-4734-9A4B-265C13C6BB89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Restaurants", "Iterator.Restaurants\Iterator.Restaurants.csproj", "{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{731223F5-3FA2-4734-9A4B-265C13C6BB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731223F5-3FA2-4734-9A4B-265C13C6BB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731223F5-3FA2-4734-9A4B-265C13C6BB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

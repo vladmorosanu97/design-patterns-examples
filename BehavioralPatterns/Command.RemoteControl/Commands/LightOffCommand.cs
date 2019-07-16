@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Command.RemoteControl.Models;
+﻿using Command.RemoteControl.Models;
 
 namespace Command.RemoteControl.Commands
 {

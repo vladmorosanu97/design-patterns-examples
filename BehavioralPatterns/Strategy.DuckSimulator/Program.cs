@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using Strategy.DuckSimulator.Client;
+﻿using Strategy.DuckSimulator.Client;
 using Strategy.DuckSimulator.FlyBehavior;
 using Strategy.DuckSimulator.QuackBehavior;
 

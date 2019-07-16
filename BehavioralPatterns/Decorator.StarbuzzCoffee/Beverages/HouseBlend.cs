@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Decorator.StarbuzzCoffee.Beverages
+﻿namespace Decorator.StarbuzzCoffee.Beverages
 {
     public class HouseBlend: Beverage
     {
