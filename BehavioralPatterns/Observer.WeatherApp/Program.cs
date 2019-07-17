@@ -1,5 +1,4 @@
-﻿using System;
-using Observer.WeatherApp.Observables;
+﻿using Observer.WeatherApp.Observables;
 using Observer.WeatherApp.Observers;
 
 namespace Observer.WeatherApp
