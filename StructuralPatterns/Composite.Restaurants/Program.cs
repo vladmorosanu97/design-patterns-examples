@@ -1,5 +1,4 @@
-﻿using System;
-using Composite.Restaurants.Menus;
+﻿using Composite.Restaurants.Menus;
 using Composite.Restaurants.Waitresses;
 
 namespace Composite.Restaurants

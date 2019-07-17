@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Adapter.DuckSimulator.Models;
+﻿using Adapter.DuckSimulator.Models;
 
 namespace Adapter.DuckSimulator.Adapter
 {

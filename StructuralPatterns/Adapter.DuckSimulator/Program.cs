@@ -1,5 +1,4 @@
-﻿using System;
-using Adapter.DuckSimulator.Adapter;
+﻿using Adapter.DuckSimulator.Adapter;
 using Adapter.DuckSimulator.Models;
 
 namespace Adapter.DuckSimulator

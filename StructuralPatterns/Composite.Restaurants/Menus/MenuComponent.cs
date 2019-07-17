@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using Composite.Restaurants.Iterators;
 
 namespace Composite.Restaurants.Menus
 {
