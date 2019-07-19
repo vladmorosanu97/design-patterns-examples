@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator.StarbuzzCoffee", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command.RemoteControl", "Command.RemoteControl\Command.RemoteControl.csproj", "{C6AA02C8-ACB3-4D90-B86C-A911669B27B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.Beverages", "TemplateMethod.Beverages\TemplateMethod.Beverages.csproj", "{21A7AEAA-75E9-47FD-A79B-BA89E8596809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod.Beverages", "TemplateMethod.Beverages\TemplateMethod.Beverages.csproj", "{21A7AEAA-75E9-47FD-A79B-BA89E8596809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.BeveragesWithHooks", "TemplateMethod.BeveragesWithHooks\TemplateMethod.BeveragesWithHooks.csproj", "{731223F5-3FA2-4734-9A4B-265C13C6BB89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod.BeveragesWithHooks", "TemplateMethod.BeveragesWithHooks\TemplateMethod.BeveragesWithHooks.csproj", "{731223F5-3FA2-4734-9A4B-265C13C6BB89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Restaurants", "Iterator.Restaurants\Iterator.Restaurants.csproj", "{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator.Restaurants", "Iterator.Restaurants\Iterator.Restaurants.csproj", "{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.GumballMachine", "State.GumballMachine\State.GumballMachine.csproj", "{669193AF-9FB6-4CCC-8E0E-50A51B7499E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD6A578B-C333-4CF9-97DF-AFAC996E3FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669193AF-9FB6-4CCC-8E0E-50A51B7499E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669193AF-9FB6-4CCC-8E0E-50A51B7499E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669193AF-9FB6-4CCC-8E0E-50A51B7499E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669193AF-9FB6-4CCC-8E0E-50A51B7499E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
